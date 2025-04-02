@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![MasterHead](https://i.imgur.com/IhL5TN8.png)](https://github.com/WeeblyMon)
+[![MasterHead](https://imgur.com/a/IhL5TN8)](https://github.com/WeeblyMon)
 
 
 ### 💻 Full-Stack Developer | M.Sc. Software Engineering
