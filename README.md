@@ -6,7 +6,7 @@
 
 ### 💻 Full-Stack Developer | M.Sc. Software Engineering
 
-Full-stack developer with a master's in Software Engineering, proficient in **React**, **Spring Boot**, **Node.js**, and **AWS**. Passionate about creating scalable web applications, REST APIs, and cloud-based solutions. Experienced in **database optimization**, **authentication**, and **DevOps** practices. I focus on building intuitive, high-performance applications by bridging seamless integrations between frontend and backend.
+I'm a full-stack developer with a master's in Software Engineering, driven by a love for building clean, scalable web applications. I enjoy working across the stack — whether it’s crafting responsive frontends with React, designing robust backend systems with Spring Boot or Node.js, or deploying to the cloud with AWS. I'm experienced in REST APIs, database tuning, and DevOps workflows, and I take pride in building smooth, high-performance experiences that bridge frontend and backend seamlessly.
 
 ---
 
