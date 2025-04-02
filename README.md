@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeeblyMon&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeeblyMon&layout=compact&theme=github_dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WeeblyMon&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
 **WeeblyMon/WeeblyMon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
