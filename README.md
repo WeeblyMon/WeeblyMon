@@ -33,14 +33,4 @@ Full-stack developer with a master's in Software Engineering, proficient in **Re
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=WeeblyMon&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeblyMon&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=WeeblyMon&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
+<div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=WeeblyMon&show_icons=true&theme=github_dark" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeblyMon&layout=compact&theme=github_dark" alt="Top Languages" /> </td> </tr> <tr> <td colspan="2" align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=WeeblyMon&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> </td> </tr> </table> <br/> <!-- Gist card --> <a href="https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d"> <img src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=github_dark" alt="Gist Card" /> </a> </div>
