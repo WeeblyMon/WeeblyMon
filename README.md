@@ -34,7 +34,7 @@ Full-stack developer with a master's in Software Engineering, proficient in **Re
 ### 📈 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=WeeblyMon&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeblyMon&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WeeblyMon&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeblyMon&layout=compact&theme=radical" alt="Top Languages" height="200"/>
 </div>
 
