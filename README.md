@@ -36,5 +36,6 @@ Full-stack developer with a master's in Software Engineering, proficient in **Re
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=WeeblyMon&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeblyMon&layout=compact&theme=radical" alt="Top Languages" />
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WeeblyMon)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
