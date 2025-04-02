@@ -38,4 +38,3 @@ Full-stack developer with a master's in Software Engineering, proficient in **Re
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeblyMon&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
