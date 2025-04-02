@@ -3,7 +3,6 @@
 [![MasterHead](https://i.imgur.com/ElD3pLh.png)](https://github.com/WeeblyMon)
 
 
-
 ### 💻 Full-Stack Developer | M.Sc. Software Engineering
 
 I'm a full-stack developer with a master's in Software Engineering, driven by a love for building clean, scalable web applications. I enjoy working across the stack — whether it’s crafting responsive frontends with React, designing robust backend systems with Spring Boot or Node.js, or deploying to the cloud with AWS. I'm experienced in REST APIs, database tuning, and DevOps workflows, and I take pride in building smooth, high-performance experiences that bridge frontend and backend seamlessly.
