@@ -44,6 +44,7 @@ I'm a full-stack developer with a master's in Software Engineering, driven by a 
   <a href="https://graphql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" title="GraphQL" width="40" height="40"/></a>
   <a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prisma.svg" alt="prisma" title="Prisma" width="40" height="40"/></a>
   <a href="https://socket.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socket.io" title="Socket.IO" width="40" height="40"/></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" title="Vue 3" width="40" height="40"/></a>
 
 </p>
 
